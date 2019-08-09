@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "69629175799",
+    "firebase_url": "https://funny-cat-compilation-5d6de.firebaseio.com",
+    "project_id": "funny-cat-compilation-5d6de",
+    "storage_bucket": "funny-cat-compilation-5d6de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69629175799:android:1e48868a867c4801",
+        "android_client_info": {
+          "package_name": "com.lokarz.funnycatcompilation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69629175799-9nui6aur0vltl1ap2s1mcr0hd2kknbf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lokarz.funnycatcompilation",
+            "certificate_hash": "727357ffb408ce89f4c26b9324b5d9c51e0276c5"
+          }
+        },
+        {
+          "client_id": "69629175799-tdc6dgll4jrnsm5el753uo3i0mr9al9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCfQCReoA5KgPNed42ni3fuT8QMIUevvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69629175799-tdc6dgll4jrnsm5el753uo3i0mr9al9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
