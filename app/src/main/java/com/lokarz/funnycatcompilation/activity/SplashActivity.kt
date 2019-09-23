@@ -2,8 +2,8 @@ package com.lokarz.funnycatcompilation.activity
 
 import android.os.Bundle
 import android.widget.ImageView
-import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
+import com.google.android.youtube.player.YouTubeBaseActivity
 import com.lokarz.funnycatcompilation.R
 import com.lokarz.funnycatcompilation.Utils.ViewUtil
 import io.reactivex.Single
@@ -12,7 +12,7 @@ import io.reactivex.functions.Consumer
 import io.reactivex.schedulers.Schedulers
 import java.util.concurrent.TimeUnit
 
-class SplashActivity : AppCompatActivity() {
+class SplashActivity : YouTubeBaseActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
