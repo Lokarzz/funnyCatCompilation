@@ -1,4 +1,4 @@
-package com.lokarz.funnycatcompilation.Fragments
+package com.lokarz.funnycatcompilation.view.Fragments
 
 import android.view.View
 import androidx.fragment.app.Fragment

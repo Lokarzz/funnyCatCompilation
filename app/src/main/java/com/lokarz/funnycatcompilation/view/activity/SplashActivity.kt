@@ -1,4 +1,4 @@
-package com.lokarz.funnycatcompilation.activity
+package com.lokarz.funnycatcompilation.view.activity
 
 import android.os.Bundle
 import android.widget.ImageView

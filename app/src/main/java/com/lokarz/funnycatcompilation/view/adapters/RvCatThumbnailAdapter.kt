@@ -1,4 +1,4 @@
-package com.lokarz.funnycatcompilation.adapters
+package com.lokarz.funnycatcompilation.view.adapters
 
 import android.view.LayoutInflater
 import android.view.View

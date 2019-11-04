@@ -13,12 +13,12 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name="com.lokarz.funnycatcompilation.activity.VideoActivity"
+        <activity android:name="com.lokarz.funnycatcompilation.view.activity.VideoActivity"
                   android:screenOrientation="landscape">
         </activity>
-        <activity android:name="com.lokarz.funnycatcompilation.activity.HomeActivity">
+        <activity android:name="com.lokarz.funnycatcompilation.view.activity.HomeActivity">
         </activity>
-        <activity android:name="com.lokarz.funnycatcompilation.activity.SplashActivity">
+        <activity android:name="com.lokarz.funnycatcompilation.view.activity.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 

@@ -1,4 +1,4 @@
-package com.lokarz.funnycatcompilation.activity
+package com.lokarz.funnycatcompilation.view.activity
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -14,8 +14,8 @@ import com.lokarz.funnycatcompilation.R
 import com.lokarz.funnycatcompilation.Utils.ConstantUtil
 import com.lokarz.funnycatcompilation.Utils.Listener
 import com.lokarz.funnycatcompilation.Utils.ViewUtil
-import com.lokarz.funnycatcompilation.adapters.RvCatThumbnailAdapter
 import com.lokarz.funnycatcompilation.models.CatVideoData
+import com.lokarz.funnycatcompilation.view.adapters.RvCatThumbnailAdapter
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
 import java.util.concurrent.TimeUnit
